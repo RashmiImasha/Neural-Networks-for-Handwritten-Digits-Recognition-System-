@@ -17,7 +17,6 @@
 </p>
 
 <h2 align="center">Handwritten Digit Recognition System</h2>
-🎉✨Handwritten Digit Recognition System! 📝🔢
 
 📜 I built a simple neural network to recognize ten handwritten digits 0-9. This is a multi-classification task and I use the SoftMax activation function here.
 
